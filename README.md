@@ -5,4 +5,4 @@
 
 - 👀 I’m interested in Python, AI, Mashin-Learning, Deep-Learning, Backend, Django, Frontend, ReactJs and working in the fiels of VR ( virtuial-reality ) programming .
 - 🌱 I’m currently learning programming and fundamentals 
-- 📫 you can reach me with my Gmail: mohammad.hussein.rostami@gmail.com
+- 📫 you can reach me with my Gmail: mohammad.hussein.rostami@gmail.com - Discord: m.h.rstmi#0936
