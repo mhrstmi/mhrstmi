@@ -1,6 +1,6 @@
 <h1>Web Developer</h1>
 
-<h3>I Worked With <h2>ReactJs</h2> & <h2>NestJs</h2> The Most</h3>
+<h3>I Worked With ReactJs & NestJs The Most</h3>
 
 <h5>👋 Hi, I’m mohammed hussein rostami </h5>
 <h6>👋 student of computer engineering in Sharif University of Technology International Campus – Kish Island</h6>
